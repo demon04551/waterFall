@@ -1,0 +1,7 @@
+G:\代码存放\ASP.NET代码存放\离散数学动态加载数据\WaterFall.DAL\bin\Debug\WaterFall.DAL.dll
+G:\代码存放\ASP.NET代码存放\离散数学动态加载数据\WaterFall.DAL\bin\Debug\WaterFall.DAL.pdb
+G:\代码存放\ASP.NET代码存放\离散数学动态加载数据\WaterFall.DAL\bin\Debug\WaterFall.Model.dll
+G:\代码存放\ASP.NET代码存放\离散数学动态加载数据\WaterFall.DAL\bin\Debug\WaterFall.Model.pdb
+G:\代码存放\ASP.NET代码存放\离散数学动态加载数据\WaterFall.DAL\obj\Debug\WaterFall.DAL.csprojResolveAssemblyReference.cache
+G:\代码存放\ASP.NET代码存放\离散数学动态加载数据\WaterFall.DAL\obj\Debug\WaterFall.DAL.dll
+G:\代码存放\ASP.NET代码存放\离散数学动态加载数据\WaterFall.DAL\obj\Debug\WaterFall.DAL.pdb

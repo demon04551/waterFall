@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "瀑布流动态加载数据", "离散数学动态加载数据\瀑布流动态加载数据.csproj", "{1ADC59D0-BB8D-4524-8E2D-BC4E7057D710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterFall.DAL", "WaterFall.DAL\WaterFall.DAL.csproj", "{5A2D4F33-9F22-4050-9780-B7438F255E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterFall.BLL", "WaterFall.BLL\WaterFall.BLL.csproj", "{E9C28F0A-DC4E-4D87-941F-447A90A35255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterFall.Model", "WaterFall.Model\WaterFall.Model.csproj", "{2A63B089-63BE-4A05-8DEB-F43B24070F90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ADC59D0-BB8D-4524-8E2D-BC4E7057D710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADC59D0-BB8D-4524-8E2D-BC4E7057D710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADC59D0-BB8D-4524-8E2D-BC4E7057D710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADC59D0-BB8D-4524-8E2D-BC4E7057D710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A2D4F33-9F22-4050-9780-B7438F255E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2D4F33-9F22-4050-9780-B7438F255E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2D4F33-9F22-4050-9780-B7438F255E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2D4F33-9F22-4050-9780-B7438F255E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9C28F0A-DC4E-4D87-941F-447A90A35255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C28F0A-DC4E-4D87-941F-447A90A35255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C28F0A-DC4E-4D87-941F-447A90A35255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C28F0A-DC4E-4D87-941F-447A90A35255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A63B089-63BE-4A05-8DEB-F43B24070F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A63B089-63BE-4A05-8DEB-F43B24070F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A63B089-63BE-4A05-8DEB-F43B24070F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A63B089-63BE-4A05-8DEB-F43B24070F90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
